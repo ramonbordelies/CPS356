@@ -1,0 +1,502 @@
+   60  gcc countUD.c -o countUd
+   61  gcc /home/osboxes/Desktop/Assignments/project00
+   62  cd /home/osboxes/Desktop/Assignments/project00
+   63  gcc countUD.c -o countUD
+   64  ./countUD
+   65  gcc countUD.c -o countUD
+   66  gcc countUD.c
+   67  ./countUD
+   68  cd /home/osboxes/Desktop/Assignments/project00
+   69  gcc countUD.c -o countUD
+   70  cd
+   71  cd /home/osboxes/Desktop
+   72  /home/osboxes/Desktop
+   73  gcc countUD.c -o countUD
+   74  cd /home/osboxes/Desktop/Assignments
+   75  gcc countUD.c -o countUD
+   76  /home/osboxes/Desktop/Assignments
+   77  gcc countUD.c -o countUD
+   78  cd /home/osboxes/Desktop/Assignments/project00
+   79  gcc countUD.c -o countUD
+   80  ./countUD
+   81  gcc countUD.c -o countUD
+   82  ./countUD
+   83  gcc countUD.c -o countUD
+   84  cd build
+   85  cmake ..
+   86  cd ..
+   87  cmake .
+   88  cd build
+   89  pwd
+   90  cd build
+   91  cmake ..
+   92  cmake --build .
+   93  ./countUD
+   94  ./countUD README.txt
+   95  ./countUD
+   96  cmake ..
+   97  cmake --build .
+   98  ./countUD
+   99  ./countUD README.txt
+  100  ./countUD
+  101  ./countUD README.txt
+  102  cmake ..
+  103  cmake --build .
+  104  ./countUD
+  105  ./countUD
+  106  ls
+  107  cd project00/
+  108  ls 
+  109  ./countUD
+  110  ./countUD README.txt
+  111  ./countUD
+  112  ./countUD README.txt
+  113  mkdir build
+  114  cd build
+  115  cmake ..
+  116  sudo 
+  117  sudo apt install cmake
+  118  su
+  119  sudo apt install cmake
+  120  cmake ..
+  121  cmake --build.
+  122  cmake --build .
+  123  ./countUD
+  124  cmake --build .
+  125  ./countUD
+  126  cmake ..
+  127  cmake --build .
+  128  ./countUD
+  129  ./countUD README.txt
+  130  clear
+  131  man 2 open
+  132  ced
+  133  cd
+  134  clear
+  135  pwd
+  136  cd ..
+  137  cd ..\
+  138  pwd
+  139  cd home
+  140  cd osboxes/
+  141  cd home
+  142  clear
+  143  pwd
+  144  ls
+  145  man ls
+  146  clear
+  147  ls
+  148  cd 2025SpringCPS-356/
+  149  ls
+  150  cd ..
+  151  cd Desktop/
+  152  pwd
+  153  ls
+  154  clear
+  155  pwd
+  156  cd ..
+  157  pwd
+  158  cls
+  159  ls
+  160  cd Music/
+  161  ./../2025SpringCPS-356/
+  162  clear
+  163  cd ..
+  164  ls
+  165  clear
+  166  pwd
+  167  cd ../../bin
+  168  cd /home/osboxes
+  169  cd /bin
+  170  .
+  171  ./
+  172  ./countUD
+  173  ./countUD a.txt
+  174  ./countUD a.txt b.txt
+  175  man 2 open
+  176  cmake ..
+  177  cmake --build .
+  178  ./countUD
+  179  ./countUD a.txt
+  180  cd build
+  181  cmake ..
+  182  cmake --build .
+  183  cmake ..
+  184  cmake --build .
+  185  ./countUD a.txt
+  186  cmake ..
+  187  cmake --build .
+  188  cmake ..
+  189  cmake --build .
+  190  ./countUD a.txt
+  191  cd ..
+  192  ./countUD a.txt
+  193  cd ./build
+  194  ./count a.txt
+  195  ./countUD a.txt
+  196  ./countUD a.txt b.txt
+  197  ./countUD a.txt
+  198  cmake ..
+  199  cmake --build .
+  200  cmake ..
+  201  cmake --build .
+  202  ./countUD
+  203  ./countUD a.txt
+  204  ./countUD b.txt
+  205  ./countUD a.txt\
+  206  ./countUD ../a.txt
+  207  ./countUD ../a.txt ../b.txt
+  208  cmake ..
+  209  cmake --build .
+  210  ./countUD ../a.txt ../b.txt
+  211  ..
+  212  ../
+  213  cd ..
+  214  cd /Desktop/Assignments/project00/build
+  215  cd ./Desktop/Assignments/project00/build
+  216  ./project00
+  217  cd ./project00
+  218  cmake ..
+  219  mkdir build
+  220  cd build
+  221  cmake ..
+  222  cmake --build ..
+  223  cmake --build .
+  224  ./countUD ..a.txt
+  225  ./countUD ../a.txt
+  226  ./countUD ../a.txt ../b.txt
+  227  cd ./home/osboxes/Desktop/Assignments/project00~
+  228  cd ./Assignments
+  229  ~
+  230  ./Desktop
+  231  cd ./Desktop
+  232  ./Assignments
+  233  cd ./Assignments\
+  234  cd ./project00
+  235  mkdir build
+  236  cd build
+  237  cmake ..
+  238  cmake --build .
+  239  ./countUD ../a.txt
+  240  mkdir build
+  241  cd build
+  242  cd ..
+  243  cd ~
+  244  cd ./Desktop/Assignments/project00
+  245  mkdir build
+  246  cd build
+  247  cmake ..
+  248  cmake --build .
+  249  ./countUD
+  250  cd ..
+  251  cd ~
+  252  cd ./Desktop/Assignments/project00
+  253  ./countUD a.txt
+  254  mkdir build
+  255  cd build
+  256  cmake ..
+  257  cmake --build .
+  258  ./countUD ../a.txt
+  259  ..
+  260  cd .
+  261  cd ..
+  262  cd ./Assignments
+  263  cd ./project00
+  264  mkdir build
+  265  cd build
+  266  cmake ..
+  267  cmake --build .
+  268  ./countUD
+  269  ./countUD ../a.txt
+  270  ./countUD a.txt
+  271  cd build
+  272  cmake ..
+  273  cmake --build .
+  274  ./countUD ../a.txt
+  275  ./countUD ../a.txt ../b.txt
+  276  cd ./project00
+  277  ./countUD a.txt
+  278  ./countUD a.txt b.txt
+  279  ./countUD a.txt
+  280  ./countUD a.txt b.txt
+  281  cd ..
+  282  cd ./ramon_bordelies_project00
+  283  ./countUD a.txt b.txt
+  284  ./countUD a.txt
+  285  ./countUD a.txt b.txt
+  286  ./countUD
+  287  ./countUD b.txt
+  288  ./countUD a.txt
+  289  ./countUD a.txt b.txt
+  290  cd
+  291  pwd 
+  292  cd
+  293  "cd ~"
+  294  cd ~
+  295  cd
+  296  pwd
+  297  cd
+  298  pwd
+  299  cd ./Desktop; pwd
+  300  ls -la
+  301  cd 
+  302  cd ./Desktop; pwd; ls -la
+  303  cd
+  304  cd 
+  305  cd ~
+  306  cd ./Desktop
+  307  cd
+  308  ls -
+  309  ls -a
+  310  ls -l
+  311  man man
+  312  whoami
+  313  pwd
+  314  which whoami
+  315  which wc
+  316  which hostname
+  317  which man
+  318  which which
+  319  echo $0
+  320  echo echo
+  321  echo cd
+  322  sh
+  323  echo $PATH
+  324  man wc
+  325  wc -l
+  326  man $PATH
+  327  man wc
+  328  man -k editor
+  329  apropos editor
+  330  wc /usr/share/dict/words > lab01.txt
+  331  [200~sort -r < /usr/share/dict/words | less~
+  332  cat lab01.txt | md5sum
+  333  man md5sum
+  334  whoami | md5sum
+  335  man <
+  336  man
+  337  man cat
+  338  [200~cat /usr/share/dict/words | grep -e 'aa.*' | sort -u | wc -l~'
+  339  cd ~
+  340  exit
+  341  cat /usr/share/dict/words | grep -e 'aa.*' | sort -u | wc -l
+  342  ~
+  343  cd ./2025SpringCPS-356/
+  344  cd Xv6-OS-with-custom-modifications/
+  345  make mu
+  346  make clean
+  347  make
+  348  ls sv6/img
+  349  ls sv6.img
+  350  ls xv6.img
+  351  ls
+  352  make qemu 
+  353  make qemu
+  354  which ex
+  355  ex
+  356  ./ex
+  357  cd ..
+  358  ./ex
+  359  ls
+  360  pwd
+  361  cd ./2025SpringCPS-356/
+  362  make qemu
+  363  make qume
+  364  cd ./Xv6-OS-with-custom-modifications/
+  365  make qemu
+  366  ./user
+  367  cd ./user
+  368  make qemu
+  369  cd ..
+  370  make qemu
+  371  make qemu-not
+  372  make qemu-nox
+  373  clean
+  374  make clean
+  375  make qemu-nox
+  376  make clean
+  377  make qemu-nox
+  378  ~
+  379  cd ./2025SpringCPS-356/
+  380  git status
+  381  git pull
+  382  ls
+  383  cd ./Xv6-OS-with-custom-modifications/
+  384  make clean
+  385  make qemu-not
+  386  make qemu-nox
+  387  cd ..
+  388  cd.. 
+  389  cd ..
+  390  ls
+  391  cd ./osboxes
+  392  ls
+  393  cd ./2025SpringCPS-356/
+  394  ls
+  395  cd ./Xv6-OS-with-custom-modifications/
+  396  cd user
+  397  ls
+  398  cd ..
+  399  make clean
+  400  make qemu-nox
+  401  make clean
+  402  make qemu-nox
+  403  cd ..
+  404  cd..
+  405  cd ..
+  406  ~
+  407  cd ..
+  408  ./osboxes/
+  409  cd ./osboxes/
+  410  ls -a
+  411  pwd
+  412  ls
+  413  cd ./bashrc
+  414  cd ./Desktop/
+  415  cd ..
+  416  cd ./lab01.txt
+  417  pwd
+  418  ls -a
+  419  pwd
+  420  cd ../bashrc
+  421  cd /bashrc
+  422  cd .
+  423  cd ./bashrc
+  424  cd ~./bashrc
+  425  cd .~/bashrc
+  426  ~/.bashrc
+  427  cd ~/.bashrc
+  428  cd .bashrc
+  429  cd ./bashrc
+  430  cd ./bashrc 
+  431  ~
+  432  ~/.bashrc
+  433  git branch
+  434  nano ./bashrc
+  435  ls
+  436  ls -a
+  437  nano ./.bashrc
+  438  ls -a
+  439  cd
+  440  cd ./.bashrc
+  441  nano ./.bashrc\
+  442  sudo apt install kitty 
+  443  pwd
+  444  ls
+  445  cd ./Desktop
+  446  ls
+  447  cd ./Assignments
+  448  cd ..
+  449  ls
+  450  ls -a
+  451  nano ./.bashrc
+  452  vim ./.bashrc
+  453  source ./.bashrc
+  454  ls -a
+  455  cd .config/kitty
+  456  ls
+  457  vim kitty.conf
+  458  nano
+  459  nano kitty.conf
+  460  LS -A
+  461  ls -a
+  462  which kitty
+  463  which kitty.conf
+  464  find kitty.conf
+  465  nano ./.bashrc
+  466  source ~/.bashrc
+  467  cd ./.config
+  468  ls
+  469  cd ./kitty
+  470  ls
+  471  nano kitty.conf
+  472  echo hello
+  473  su 
+  474  su
+  475  ls -a
+  476  nano ./.bashrc
+  477  source ~/.bashrc
+  478  ~
+  479  git clone https://github.com/mit-pdos/xv6-public
+  480  ls
+  481  cd ./xv6-public/
+  482  make
+  483  make qemu
+  484  cd ..
+  485  ls
+  486  cd 2025SpringCPS-356/
+  487  ls
+  488  cd Xv6-OS-with-custom-modifications/
+  489  ls
+  490  make
+  491  make qemu-nox
+  492  make clean
+  493  make qemu-nox
+  494  make clean
+  495  make qemu-nox
+  496  make qemu-nox
+  497  make clean
+  498  make qemu-nox
+  499  make
+  500  make qemu
+  501  make qemu-nox
+  502  make clean
+  503  make qemu-nox
+  504  make clean
+  505  make qemu-nox
+  506  make qemu-nox
+  507  make clean
+  508  make qemu-nox
+  509  make clean
+  510  qemu-nox
+  511  make qemu-nox
+  512  make clean
+  513  make qemu-nox
+  514  git pull
+  515  make clean
+  516  make qemu-nox
+  517  make clean
+  518  make qemu-nox
+  519  make clean
+  520  make
+  521  make qemu
+  522  make
+  523  make clean
+  524  make qemu-nox
+  525  make
+  526  make clean
+  527  make qemu-nox
+  528  make
+  529  make clean
+  530  make qemu-nox
+  531  make qemu
+  532  cd user
+  533  make
+  534  make make
+  535  makema
+  536  make
+  537  make clean\
+  538  make clean
+  539  make qemu-nox
+  540  cd ..
+  541  make 
+  542  make clean
+  543  make qemu-nox
+  544  make qemu-nox
+  545  make clean
+  546  make qemu-nox
+  547  make clean
+  548  make qemu-nox
+  549  make clean
+  550  make qemu-nox
+  551  make clean
+  552  make qemu-nox
+  553  make clean
+  554  make qemu-nox
+  555  make clean
+  556  make qemu-nox
+  557  make clean
+  558  make qemu-nox
+  559  history > myname.txt
+
+Lines for this project starts in line 411.
